@@ -1,2 +1,2 @@
 # Htmlcsscourse
-https://andrewnyrivera.github.io/Htmlcsscourse/
+https://onthegocode.github.io/Htmlcsscourse/
